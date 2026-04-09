@@ -29,7 +29,6 @@ the planets / photosynthesis / fibonacci / haiku / translate prompts.
 K=1 spec mean throughput on Qwen3.5-27B Q4_K_M (M4 Max): 7.64 tok/s
 (plain decode: 17.90 tok/s).
 
-Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>
 ---
  examples/mtp-speculative/mtp-speculative.cpp | 90 +++++++++++++++++++-
  1 file changed, 87 insertions(+), 3 deletions(-)

@@ -39,7 +39,6 @@ Known follow-ups:
      Build passes; verify against reference logits once execution
      is wired.
 
-Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>
 ---
  include/llama.h          |  36 ++++++++
  src/llama-arch.cpp       |   6 ++

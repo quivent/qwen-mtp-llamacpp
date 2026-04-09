@@ -1,5 +1,5 @@
 From a5091a5dd74365fa1bf55c32109ede614811372c Mon Sep 17 00:00:00 2001
-From: claudebuildsapps <claude.jbenjaminkr@gmail.com>
+From: quivent <quivent@users.noreply.github.com>
 Date: Wed, 8 Apr 2026 14:07:45 -0400
 Subject: [PATCH] feat(qwen3next): MTP (NextN) head graph builder + load path
 

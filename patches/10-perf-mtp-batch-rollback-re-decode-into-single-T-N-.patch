@@ -1,5 +1,5 @@
 From 4350678011de4fa65991f0714d4bd3964e82c82e Mon Sep 17 00:00:00 2001
-From: claudebuildsapps <claude.jbenjaminkr@gmail.com>
+From: quivent <quivent@users.noreply.github.com>
 Date: Wed, 8 Apr 2026 21:18:51 -0400
 Subject: [PATCH] perf(mtp): batch rollback re-decode into single T=N
  llama_decode

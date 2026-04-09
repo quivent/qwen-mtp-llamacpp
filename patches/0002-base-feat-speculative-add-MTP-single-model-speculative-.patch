@@ -1,5 +1,5 @@
 From 47ad7a1d68f7eb1b8bf2019b33f13a74a06e05fb Mon Sep 17 00:00:00 2001
-From: claudebuildsapps <claude.jbenjaminkr@gmail.com>
+From: quivent <quivent@users.noreply.github.com>
 Date: Wed, 8 Apr 2026 14:05:48 -0400
 Subject: [PATCH] feat(speculative): add MTP single-model speculative decoding
 

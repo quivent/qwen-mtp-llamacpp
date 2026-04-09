@@ -1,5 +1,5 @@
 From 22d4ca1db7c7d96e87da76ffb844757e1ffee1c2 Mon Sep 17 00:00:00 2001
-From: claudebuildsapps <claude.jbenjaminkr@gmail.com>
+From: quivent <quivent@users.noreply.github.com>
 Date: Wed, 8 Apr 2026 18:09:22 -0400
 Subject: [PATCH] fix(mtp): isolate mtp_graph_compute in a private
  ggml_backend_sched

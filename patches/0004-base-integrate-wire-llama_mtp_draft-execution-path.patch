@@ -1,5 +1,5 @@
 From 3cb64ac6404b43a081d10fb7edb8678ca832e829 Mon Sep 17 00:00:00 2001
-From: claudebuildsapps <claude.jbenjaminkr@gmail.com>
+From: quivent <quivent@users.noreply.github.com>
 Date: Wed, 8 Apr 2026 14:17:11 -0400
 Subject: [PATCH] integrate: wire llama_mtp_draft execution path
 

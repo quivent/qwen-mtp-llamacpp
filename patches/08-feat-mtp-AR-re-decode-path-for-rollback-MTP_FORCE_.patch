@@ -1,5 +1,5 @@
 From 8ebc567d01655b4e11be9b89b30d4ecb65f77c08 Mon Sep 17 00:00:00 2001
-From: claudebuildsapps <claude.jbenjaminkr@gmail.com>
+From: quivent <quivent@users.noreply.github.com>
 Date: Wed, 8 Apr 2026 18:57:15 -0400
 Subject: [PATCH] feat(mtp): AR re-decode path for rollback + MTP_FORCE_AR
  diagnostic
